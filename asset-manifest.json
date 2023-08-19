@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/personal_portofolio/static/css/main.e9d05a49.css",
+    "main.js": "/personal_portofolio/static/js/main.500ccebf.js",
+    "static/media/me.png": "/personal_portofolio/static/media/me.821ecddcb9953b46bf75.png",
+    "static/media/me-about.jpg": "/personal_portofolio/static/media/me-about.fb4452e7f286d3636ef9.jpg",
+    "static/media/CV_Ardiansyah.pdf": "/personal_portofolio/static/media/CV_Ardiansyah.0d88edf2404a4ad78b08.pdf",
+    "static/media/portfolio5.png": "/personal_portofolio/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/portfolio2.jpg": "/personal_portofolio/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio6.jpg": "/personal_portofolio/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/portfolio1.jpg": "/personal_portofolio/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/personal_portofolio/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio4.jpg": "/personal_portofolio/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "index.html": "/personal_portofolio/index.html",
+    "main.e9d05a49.css.map": "/personal_portofolio/static/css/main.e9d05a49.css.map",
+    "main.500ccebf.js.map": "/personal_portofolio/static/js/main.500ccebf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9d05a49.css",
+    "static/js/main.500ccebf.js"
+  ]
+}
