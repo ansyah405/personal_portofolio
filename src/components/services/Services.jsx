@@ -11,29 +11,32 @@ const Services = () => {
       <div className="container services__container">
         <article className="service">
           <div className="service__head">
-            <h3>UI/UX Desaign</h3>
+            <h3>UI/UX Design</h3>
           </div>
 
           <ul className="service__list">
             <li>
               <MdCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>
+              <p>Develop the user interface.</p>
             </li>
             <li>
               <MdCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>
+              <p>Responsive design on Mobile or Website.</p>
             </li>
             <li>
               <MdCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>
+              <p>Create mockups to develop user personas and scenarios.</p>
             </li>
             <li>
               <MdCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>
+              <p>Make wireframe, storyboard, sitemaps and screen flows. </p>
             </li>
             <li>
               <MdCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>
+              <p>
+                Analyzing the needs and user experience of the product to be
+                made.
+              </p>
             </li>
           </ul>
         </article>
@@ -46,54 +49,24 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <MdCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>
+              <p>Implement all parts of the mockup into the website. </p>
             </li>
             <li>
               <MdCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>
+              <p>Implement website design concepts into code </p>
             </li>
             <li>
               <MdCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>
-            </li>
-            <li>
-              <MdCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>
-            </li>
-            <li>
-              <MdCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>
+              <p>Create design elements for applications. </p>
             </li>
           </ul>
         </article>
         {/* end */}
         <article className="service">
           <div className="service__head">
-            <h3>Content</h3>
+            <h3>Other</h3>
           </div>
-
-          <ul className="service__list">
-            <li>
-              <MdCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>
-            </li>
-            <li>
-              <MdCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>
-            </li>
-            <li>
-              <MdCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>
-            </li>
-            <li>
-              <MdCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>
-            </li>
-            <li>
-              <MdCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>
-            </li>
-          </ul>
+          <h4 className="service__list">Coming Soon</h4>
         </article>
         {/* end */}
       </div>

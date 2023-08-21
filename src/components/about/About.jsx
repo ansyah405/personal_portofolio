@@ -1,6 +1,6 @@
 import React from "react";
 import "./about.css";
-import ME from "../../assets/me-about.jpg";
+import ME from "../../assets/me-about.png";
 import { FaAward, FaUsers, FaFolderPlus } from "react-icons/fa";
 
 const About = () => {
@@ -21,25 +21,26 @@ const About = () => {
             <article className="about__card">
               <FaAward className="about__icon" />
               <h5>Experience</h5>
-              <small>3+ Years Experience</small>
+              <small>1+ Years Experience</small>
             </article>
             <article className="about__card">
               <FaUsers className="about__icon" />
               <h5>Clients</h5>
-              <small>10+ Clients</small>
+              <small>5+ Clients</small>
             </article>
             <article className="about__card">
               <FaFolderPlus className="about__icon" />
               <h5>Project</h5>
-              <small>3+</small>
+              <small>3+ Competed</small>
             </article>
           </div>
 
           <p>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laboriosam
-            saepe possimus hic molestiae voluptas consequatur, adipisci
-            voluptatem cum vel cumque iusto enim dolore expedita. Reprehenderit
-            quaerat accusamus fugiat culpa? Praesentium!
+            I am a recent graduate with a degree in Computer Engineering from
+            the PLN Institute of Technology. I am proficient in programming
+            languages such as HTML, PHP, Python,Laravel,Next.JS , MySQL, Oracle,
+            and Microsoft Office. I possess a strong eagerness for learning new
+            things and am capable of working both in a team and independently.
           </p>
 
           <a href="#contact" className="btn btn-primary">

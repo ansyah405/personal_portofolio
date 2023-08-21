@@ -12,9 +12,6 @@ const HeaderSocial = () => {
       <a href="https://www.github.com" target="_blank">
         <FaGithub />
       </a>
-      <a href="https://www.instagram.com" target="_blank">
-        <FiDribbble />
-      </a>
     </div>
   );
 };

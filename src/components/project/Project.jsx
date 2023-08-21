@@ -1,42 +1,41 @@
 import React from "react";
 import "./project.css";
-import IMG1 from "../../assets/portfolio1.jpg";
-import IMG2 from "../../assets/portfolio2.jpg";
-import IMG3 from "../../assets/portfolio3.jpg";
-import IMG4 from "../../assets/portfolio4.jpg";
-import IMG5 from "../../assets/portfolio5.png";
-import IMG6 from "../../assets/portfolio6.jpg";
+import IMG1 from "../../assets/Desain tanpa judul(1).png";
+import IMG2 from "../../assets/portfolio2.png";
+import IMG3 from "../../assets//5.png";
+import IMG4 from "../../assets/portfolio4.png";
+import IMG5 from "../../assets/8.png";
 
 const data = [
   {
     id: 1,
     image: IMG1,
     title: "Web Absen Karyawan",
-    github: "https://github.com",
+    github: "https://github.com/ansyah405/Web_Absen_Karyawan",
   },
   {
     id: 2,
     image: IMG2,
-    title: "Web Absen Karyawan",
-    github: "https://github.com",
+    title: "Laravel Web E-commerce",
+    github: "https://github.com/ansyah405/laravel-9-E-Commerce",
   },
   {
     id: 3,
     image: IMG3,
-    title: "Web Absen Karyawan",
-    github: "https://github.com",
+    title: "Web Personal Portofolio",
+    github: "https://github.com/ansyah405/personal_portofolio",
   },
   {
     id: 4,
     image: IMG4,
-    title: "Web Absen Karyawan",
-    github: "https://github.com",
+    title: "Sunma Web",
+    github: "",
   },
   {
     id: 5,
     image: IMG5,
-    title: "Web Absen Karyawan",
-    github: "https://github.com",
+    title: "WAXE",
+    github: "",
   },
 ];
 
@@ -55,9 +54,18 @@ const Project = () => {
               </div>
               <h3>{title}</h3>
               <div className="portfolio__item-cta">
-                <a href={github} className="btn" target="_blank">
-                  Github
-                </a>
+                {github ? (
+                  <a href={github} className="btn" target="_blank">
+                    Github
+                  </a>
+                ) : (
+                  <a
+                    className="btn disabled"
+                    onClick={(e) => e.preventDefault()}
+                  >
+                    Not Available
+                  </a>
+                )}
               </div>
             </article>
           );
