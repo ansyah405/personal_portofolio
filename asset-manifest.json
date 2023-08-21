@@ -1,22 +1,20 @@
 {
   "files": {
-    "main.css": "/personal_portofolio/static/css/main.e9d05a49.css",
-    "main.js": "/personal_portofolio/static/js/main.500ccebf.js",
-    "static/media/me.png": "/personal_portofolio/static/media/me.821ecddcb9953b46bf75.png",
-    "static/media/me-about.jpg": "/personal_portofolio/static/media/me-about.fb4452e7f286d3636ef9.jpg",
+    "main.css": "/personal_portofolio/static/css/main.e75b54d2.css",
+    "main.js": "/personal_portofolio/static/js/main.f8007d79.js",
+    "static/media/ardi.png": "/personal_portofolio/static/media/ardi.4f0286838e77a1bc49e4.png",
+    "static/media/me-about.png": "/personal_portofolio/static/media/me-about.074cfdb9f6a440fd4108.png",
     "static/media/CV_Ardiansyah.pdf": "/personal_portofolio/static/media/CV_Ardiansyah.0d88edf2404a4ad78b08.pdf",
-    "static/media/portfolio5.png": "/personal_portofolio/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
-    "static/media/portfolio2.jpg": "/personal_portofolio/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
-    "static/media/portfolio6.jpg": "/personal_portofolio/static/media/portfolio6.72d1107e313049cf15a7.jpg",
-    "static/media/portfolio1.jpg": "/personal_portofolio/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
-    "static/media/portfolio3.jpg": "/personal_portofolio/static/media/portfolio3.cbab42559fe73e73906f.jpg",
-    "static/media/portfolio4.jpg": "/personal_portofolio/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "static/media/portfolio4.png": "/personal_portofolio/static/media/portfolio4.97a9ada87be3c5ce3dc5.png",
+    "static/media/5.png": "/personal_portofolio/static/media/5.909393a922037ae93c66.png",
+    "static/media/8.png": "/personal_portofolio/static/media/8.446eacc42dbec973f262.png",
+    "static/media/Desain tanpa judul(1).png": "/personal_portofolio/static/media/Desain tanpa judul(1).efe59d31edd016e56a2c.png",
     "index.html": "/personal_portofolio/index.html",
-    "main.e9d05a49.css.map": "/personal_portofolio/static/css/main.e9d05a49.css.map",
-    "main.500ccebf.js.map": "/personal_portofolio/static/js/main.500ccebf.js.map"
+    "main.e75b54d2.css.map": "/personal_portofolio/static/css/main.e75b54d2.css.map",
+    "main.f8007d79.js.map": "/personal_portofolio/static/js/main.f8007d79.js.map"
   },
   "entrypoints": [
-    "static/css/main.e9d05a49.css",
-    "static/js/main.500ccebf.js"
+    "static/css/main.e75b54d2.css",
+    "static/js/main.f8007d79.js"
   ]
 }
