@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import React from "react";
 import "./project.css";
 import IMG1 from "../../assets/Desain tanpa judul(1).png";
@@ -63,20 +64,17 @@ const Project = () => {
           <h3>{title}</h3>
           <div className="portfolio__item-cta">
             {github ? (
-              <a href={github} className="btn" target="_blank">
+              <a href={github} className="btn" target="_blank" rel="noreferrer">
                 Github
               </a>
             ) : (
-              <a
-                className="btn disabled"
-                onClick={(e) => e.preventDefault()}
-              >
+              <a href="#" className="btn disabled" onClick={(e) => e.preventDefault()} role="button">
                 Not Available
               </a>
             )}
             
             {demo && (
-              <a href={demo} className="btn btn-primary" target="_blank">
+              <a href={demo} className="btn btn-primary" target="_blank" rel="noreferrer">
                 Live Demo
               </a>
             )}
