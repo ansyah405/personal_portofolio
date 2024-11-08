@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import React from "react";
 import "./nav.css";
 import {
@@ -13,11 +14,7 @@ const Nav = () => {
   const [activeNav, setActiveNav] = useState("#");
   return (
     <nav>
-      <a
-        href="#"
-        onClick={() => setActiveNav("#")}
-        className={activeNav === "#" ? "active" : ""}
-      >
+      <a href="#" onClick={() => setActiveNav("#")} className={activeNav === "#" ? "active" : ""}>
         <AiOutlineHome />
       </a>
       <a

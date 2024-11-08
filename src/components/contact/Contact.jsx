@@ -28,7 +28,7 @@ const Contact = () => {
             <HiOutlineMail className="contact__option-icon" />
             <h4>Email</h4>
             <h5>ansyah405@gmail.com</h5>
-            <a href="mailto:ansyah405@gmail.com" target="_blank">
+            <a href="mailto:ansyah405@gmail.com" target="_blank" rel="noreferrer">
               Send a message
             </a>
           </article>
@@ -44,7 +44,7 @@ const Contact = () => {
             <HiOutlineMail className="contact__option-icon" />
             <h4>WhatsApp</h4>
             <h5>+6289613333212</h5>
-            <a href="https://wa.me/+6289613333212" target="_blank">
+            <a href="https://wa.me/+6289613333212" target="_blank" rel="noreferrer">
               Send a message
             </a>
           </article>

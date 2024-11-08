@@ -1,6 +1,7 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import React from "react";
 import "./footer.css";
-import { FaFacebookF } from "react-icons/fa";
+// import { FaFacebookF } from "react-icons/fa";
 import { FaGithubSquare, FaLinkedin, FaInstagram } from "react-icons/fa";
 
 const Footer = () => {
@@ -37,14 +38,14 @@ const Footer = () => {
       <div className="footer__socials">
         <a
           href="https://www.linkedin.com/in/ardiansyah-53296298/"
-          target="_blank"
+          target="_blank" rel="noreferrer"
         >
           <FaLinkedin />
         </a>
-        <a href="https://github.com/ansyah405" target="_blank">
+        <a href="https://github.com/ansyah405" target="_blank" rel="noreferrer">
           <FaGithubSquare />
         </a>
-        <a href="https://www.instagram.com/ansyah405/" target="_blank">
+        <a href="https://www.instagram.com/ansyah405/" target="_blank" rel="noreferrer">
           <FaInstagram />
         </a>
       </div>
