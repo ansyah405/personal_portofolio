@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/personal_portofolio/static/css/main.c4cb97e6.css",
+    "main.js": "/personal_portofolio/static/js/main.db3391c8.js",
+    "static/media/CV_Ardiansyah.pdf": "/personal_portofolio/static/media/CV_Ardiansyah.211bc2fc99f65c96c79a.pdf",
+    "static/media/ardi.png": "/personal_portofolio/static/media/ardi.4f0286838e77a1bc49e4.png",
+    "static/media/me-about.png": "/personal_portofolio/static/media/me-about.074cfdb9f6a440fd4108.png",
+    "static/media/portfolio4.png": "/personal_portofolio/static/media/portfolio4.97a9ada87be3c5ce3dc5.png",
+    "static/media/logo.png": "/personal_portofolio/static/media/logo.aea06f76ac70bd27dcda.png",
+    "static/media/5.png": "/personal_portofolio/static/media/5.909393a922037ae93c66.png",
+    "static/media/8.png": "/personal_portofolio/static/media/8.446eacc42dbec973f262.png",
+    "static/media/Desain tanpa judul(1).png": "/personal_portofolio/static/media/Desain tanpa judul(1).efe59d31edd016e56a2c.png",
+    "index.html": "/personal_portofolio/index.html",
+    "main.c4cb97e6.css.map": "/personal_portofolio/static/css/main.c4cb97e6.css.map",
+    "main.db3391c8.js.map": "/personal_portofolio/static/js/main.db3391c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4cb97e6.css",
+    "static/js/main.db3391c8.js"
+  ]
+}
