@@ -49,6 +49,7 @@ const Contact = () => {
             </a>
           </article>
         </div>
+        
         <form ref={form} onSubmit={sendEmail}>
           <input
             type="text"
